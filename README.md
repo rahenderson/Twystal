@@ -1,12 +1,40 @@
 # Twystal
+⸻
 
-On the Yang Mills Mass Gap and the Characteristic of Primes
+Proof of the Yang–Mills Mass Gap: A Categorical and Cohomological Approach
+
+Welcome! This repository hosts my ongoing research related to the Yang–Mills Mass Gap as well as the extensive and fascinating implications.
 
 
-A non-perturbative proof of the existence of the Yang Mills Mass Gap, seeming to also prove the Birch-Swinnerton-Dyer conjecture as a corrollory on the nature of rigid prime-adjacenct structure of spectral bands. (We would imagine numerous Langlands conjectures too, considering the depth of the program and that rigid prime adjacency is now proven to be an admitted invariant in the Galois groups.)
+About this Work
 
-The Yang Mills Mass Gap problem - one of the Millennium Prize Problems established by the Clay Mathematics Institute - has often been discussed as undecidable.  Various arguements invoking Turing machines, Penrose tilings, Godel's incompleteness theorems,and Tarski's semantic undecidability claim that determining the existence of a spectralgap lies beyond computational grasp. 
+A formal statement:
 
-In direct contrast to these conclusions,  we introduce a series of papers to explicitlydemonstrate not only the computability and existence of the Yang{Mills mass gap, but its intrinsic invariance within the algebraic and topological structures of gauge theories and Lie groups. We specically show that spectral and mass gaps naturally arise as categorical invariants within all groups of Lie type analyzed thus far. This introductory paper forms part of a series exploring various structural and non-perturbative  analyses  across  operator theory, group theory, cohomology, modular forms, and automorphic representations. 
+"This research demonstrates categorical and spectral invariants, explicitly computed across multiple Lie groups and algebraic structures. The central insight involves the introduction of a universal “Characteristic Gap,” derived from prime-adjacency constraints, torsional quantization, and modular spectral transport. This gap rigorously proves the existence of mass gaps in Yang–Mills theories, as well as seeming to resolve other fundamental mathematical conjectures, including the Birch-Swinnerton-Dyer, the Hodge Conjecture, and potential implications for countless other conjectures of number theory.
 
-We commence with a concise demonstration via key PDEs.
+The author recognizes fully that the scope of claims presented here may appear extraordinary and laughably ambitious — particularly the simultaneous resolution of multiple Clay Mathematics Institute Millennium Prize Problems that have sat unsolved for decades.
+
+However, these broad claims emerge naturally from a unified categorical, spectral, and algebraic structure discovered during the research process. The author does not present these findings lightly or frivolously. Rather, extensive computation, rigorous analysis, and careful consideration across multiple mathematical disciplines have led to the unavoidable conclusion that these profound problems share fundamental structural connections: Rigid prime-adjancent structuring, modular arithmatic forms, and spectral gaps. Taken together the questions from the Clay Institute form a cohomology that seems to represent something akin to a crystalline band topology or topological quantum field theory. Initially drawing inspiration from Crystalline cohomology of Alexander Grothendieck and Twistor theory of Sir Penrose, the natural name for such a cohomology could be nothing other than 'Twystal'. 
+
+Every question the Clay Institute offered for the Millenium Questions can be seen through the lens of discrete, rigid energy transfers & structures. These characteristics are generally what one could associate with band-gap singularities, band inversions, Quantum Hall effects, and the type of modular spectral transport seen as a product of Berry Curvature and Laughlin's argument, which describe how charged transport occurs via chiral edge motion on a topological insulator or through a flux tube.
+
+Given the ambitious scope and interdisciplinary depth required, collaboration, verification, and constructive criticism are enthusiastically encouraged. The author warmly welcomes feedback, critique, and collaboration from mathematicians, physicists, and scholars in related fields, recognizing that the interdisciplinary and interconnected nature of these discoveries requires community engagement and collective intellectual rigor."
+
+Thank you for your openness, curiosity, and participation in exploring these remarkable connections.
+
+Roadmap to come.
+
+Feel free to:
+	•	Raise issues, provide feedback, or suggest improvements.
+	•	Reach out via owner@abstractedanalytics.com or directly through GitHub.
+
+Getting Started
+	•	The introductory proof is provided in the PDF included in this repository.
+	•	Additional detailed proofs, data, and expansions will be added shortly.
+  • Edits for typos, numbering, naming conventions and consistency to come.
+
+
+Thank you for your interest — I’m excited to collaborate, learn, and explore further insights with you!
+-
+Ryan Henderson
+abstractedanalytics.com
