@@ -1,5 +1,6 @@
 # Twystal
 ⸻
+https://zenodo.org/records/15048597
 
 Proof of the Yang–Mills Mass Gap: A Categorical and Cohomological Approach
 
