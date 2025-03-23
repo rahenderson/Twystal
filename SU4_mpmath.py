@@ -125,7 +125,7 @@ class ModularTransportOperator:
         self.weight_func = weight_func
 
     def compute_operator(self) -> Dict[str, mp.mpf]:
-        base_value = mp.mpf(3)  # Simulated base eigenvalue (using high precision)
+        base_value = mp.mpf(1)  # Simulated base eigenvalue (using high precision)
         eigenvalues = {}
         for rep in self.representations:
             weight = self.weight_func(rep)
@@ -206,7 +206,7 @@ def main():
 
     # Initialize the Skyrmion Charge Lattice with a high-precision minimal gap.
     # Here, we use a value that may correspond to a very small energy gap.
-    skyrmion_lattice = SkyrmionChargeLattice(minimal_gap="1.01e-50")
+    skyrmion_lattice = SkyrmionChargeLattice(minimal_gap="1.01e-31")
 
     def weight_function(rep: Representation) -> mp.mpf:
         return skyrmion_lattice.wrapping_energy(rep)
