@@ -217,7 +217,7 @@ def main():
 
     print("Computed Eigenvalues for Each Representation:")
     for rep_id, val in eigenvalues.items():
-        # Format output with 40 decimal places
+        # Format output with 100 decimal places
         print(f"  Representation {rep_id}: Eigenvalue = {mp.nstr(val, 100)}")
 
     # Compute the spectral (mass) gap.
