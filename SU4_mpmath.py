@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
-Modular Spectral Transport Framework with High-Precision Calculations Using mpmath
+Modular Spectral Transport Framework with High-Precision Calculations Using mpmath. 
 --------------------------------------------------------------------------------------
 
-This version configures representation input parameters for SU(4), calculates:
+This version configures representation input parameters for pure 4D Yang Mills in SU(4), calculates:
   1. The spectral (mass) gap.
   2. The mass-energy equivalence of the gap using E = m c²,
 using mpmath for high precision arithmetic.
