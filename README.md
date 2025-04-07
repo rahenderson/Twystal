@@ -2,7 +2,6 @@
 ⸻
 https://zenodo.org/records/15048597
 
-Here’s the updated Markdown-formatted version of your formal statement, ready for inclusion in your GitHub README.md:
 
 ⸻
 
